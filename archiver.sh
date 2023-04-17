@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_DIR="/home/ayushmantripathy2004/lol"
+BASE_DIR=""
 CONTENT_DIR="$BASE_DIR/content"
 COUNT=$(cat "$BASE_DIR/todo.txt" | wc -l)
 

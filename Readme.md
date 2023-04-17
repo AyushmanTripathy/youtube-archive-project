@@ -6,6 +6,10 @@ they are lost forever.
 
 ### Procedure
 
+1. In the script change the `$BASE_DIR`.  
+2. add links to todo.txt
+3. run `bash archiver.sh`
+
 The todo.txt file should contain the following format.
 
 ```
